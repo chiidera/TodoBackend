@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-yb7&uojx@_sape&(+@o_24#&lho8-o3t0ar=mnytj@h@dvssex
 DEBUG = False
 
 # any url name can host this website
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
